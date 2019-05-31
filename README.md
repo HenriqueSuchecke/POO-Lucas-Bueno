@@ -1,1 +1,2 @@
-# POO-Lucas-Bueno
+# 1stgui
+JavaFX class 1st GUI example
